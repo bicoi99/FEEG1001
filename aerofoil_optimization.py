@@ -3,6 +3,7 @@ from scipy.optimize import minimize
 import numpy as np
 import matplotlib.pyplot as plt
 from aclab3 import *
+from aclab1 import *
 
 
 def one_dim_opt(x0, alpha, target_cl):

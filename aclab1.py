@@ -1,4 +1,4 @@
-import pylab as p
+import matplotlib.pyplot as p
 import numpy as np
 from aclabtools import choose
         
